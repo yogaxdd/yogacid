@@ -1,0 +1,8 @@
+Version=3.96
+Account=pixelmooncid0
+Password=yogacid00#
+Gmail=yogaxdcid
+START_ACC=1
+DOMAIN=@gmail.com
+BEHIND=1
+FROM BEHIND=yes
